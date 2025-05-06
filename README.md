@@ -2,6 +2,8 @@
 
 &emsp;The 'data' folder contains the original data files used for the project. The 'data-dictionaries' folder contains files that give more detail on what data is included and how the data is measured.
 
+&emsp;The 'database_screenshots' folder contains screenshots of the Postbird app, showing how the database's tables and views look on my computer.
+
 &emsp;The 'bike_rental_database_schema.png' file shows the database schema.
 
 &emsp;To view __only__ the __INTRODUCTION__ and __SUMMARY__, continue reading below.
